@@ -1,2 +1,4 @@
-package com.autobots.java.git2;public class NewClass {
+package com.autobots.java.git2;
+
+public class NewClass {
 }

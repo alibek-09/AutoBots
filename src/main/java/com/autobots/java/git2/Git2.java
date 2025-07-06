@@ -1,4 +1,4 @@
 package com.autobots.java.git2;
 
-public class MyClass {
+public class Git2 {
 }
